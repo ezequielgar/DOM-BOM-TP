@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://d1wumrtbuo797i.cloudfront.net/thumb-large-Grunge-1383.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
