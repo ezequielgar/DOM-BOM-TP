@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+body{
+    background-color: black;
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
+    letter-spacing: 3px;
+    color: whitesmoke;
+    
+}
+.rosa{
+    text-shadow: 0 0 5px #ff7bac,
+    0 0 10px #ff7bac,
+    0 0 20px #ff7bac,
+    0 0 10px #ff7bac,
+    0 0 10px #ff7bac,
+    0 0 10px #ff7bac;
+}
+
+.azul{
+    text-shadow: 0 0 5px #1f33e7,
+    0 0 10px #1f33e7,
+    0 0 10px #1f33e7,
+    0 0 10px #1f33e7,
+    0 0 20px #1f33e7;
+}
+.verde{
+    text-shadow: 0 0 5px #21e78b,
+    0 0 10px #21e78b,
+    0 0 10px #21e78b,
+    0 0 10px #21e78b,
+    0 0 20px #21e78b;
+}
+
+.btnrosa{
+    background-color: #ff7bac;
+
+}
+.btnazul{
+    background-color: #1f33e7;
+}
+.btnverde{
+    background-color:#21e78b ;
+}
